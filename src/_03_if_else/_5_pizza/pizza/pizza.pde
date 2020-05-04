@@ -11,8 +11,12 @@ void draw() {
     PImage Pepperoni=loadImage("Pepperoni.jpg");
     Pepperoni.resize(50,50);
     image(Pepperoni,250,250);
-    PImage Tomato=loadImage("Tomato.png");
+    PImage Tomato=loadImage("Tomato.jpg");
     Tomato.resize(50,50);
     image(Tomato,200,235);
+    PImage Basil=loadImage("Basil.jpg");
+    Basil.resize(50,50);
+    image(Basil,150,200);
+    
     
 }
