@@ -35,7 +35,7 @@ else {
 	JOptionPane.showMessageDialog(null,"A coffin");
 }
 		// 2. Make a pop up to show the score.
-
+JOptionPane.showMessageDialog(null, score);
 	}
 }
 
